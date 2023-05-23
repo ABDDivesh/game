@@ -63,3 +63,4 @@ class ChessGame:
 # Start the game
 game = ChessGame()
 game.play_game()
+game = ChessGame() game.play_game()
